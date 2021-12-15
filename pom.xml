@@ -9,7 +9,7 @@
 		<version>2.5.2</version>
 		<relativePath />
 	</parent>
-	<groupId>com.github.sanchezih</groupId>
+	<groupId>com.github.msanjose</groupId>
 	<artifactId>questionados-api</artifactId>
 	<version>1.0.0</version>
 	<name>questionados-api</name>
